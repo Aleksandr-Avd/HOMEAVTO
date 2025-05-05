@@ -1,0 +1,4 @@
+1 Функция   def capitalize(self, string: str) -> str: не обрабатывает значение None. при запуске функции пояляется ошибка - AttributeError: 'NoneType' object has no attribute 'capitalize'
+2 Функция   def trim(self, string: str) -> str: не обрабатывает значение None. при запуске функции пояляется ошибка - AttributeError: 'NoneType' object has no attribute 'startswith
+3 Функция   def contains(self, string: str, symbol: str) -> bool: не обрабатывает значение None. при запуске функции пояляется ошибка - AttributeError: 'NoneType' object has no attribute 'index'
+4 Функция   def delete_symbol(self, string: str, symbol: str) -> str: е обрабатывает значение None. при запуске функции пояляется ошибка - AttributeError: 'NoneType' object has no attribute 'index'
