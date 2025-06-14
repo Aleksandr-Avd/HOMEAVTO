@@ -2,7 +2,7 @@ import requests
 import pytest
 
 BASE_URL = "https://ru.yougile.com/api-v2/projects"
-TOKEN = "N+IPgcNAWUggto-LN6J5tkVDhe5rsqDL6Lj6I-sRhjMqqY35MJfPBA8VOkmv8Uvg"
+TOKEN = ""
 id_negative="2132132132132132132"
 
 
